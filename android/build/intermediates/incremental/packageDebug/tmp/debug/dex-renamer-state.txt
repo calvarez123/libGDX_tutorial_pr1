@@ -1,0 +1,4 @@
+#Tue May 07 18:37:16 CEST 2024
+base.0=/home/super/repositorios/mp08_repo/uf3/practica1/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
